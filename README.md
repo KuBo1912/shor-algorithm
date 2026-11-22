@@ -8,3 +8,4 @@ End-to-end implementation of **Quantum Order-Finding** and **Shor's Factoring Al
   2. Generalized modular multiplication oracle $U_x\vert y\rangle = \vert xy \bmod N\rangle$ via $2^L \times 2^L$ permutation `UnitaryGate`.
   3. Phase estimation & sampling on `AerSimulator`.
   4. Classical Continued Fractions post-processing to extract order $r$.
+  5. Implement `Shor's Algorithm`
